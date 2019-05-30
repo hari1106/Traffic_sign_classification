@@ -17,10 +17,10 @@ The goals / steps of this project are the following:
 
 
 [//]: # (Image References)
-[image0]: ./writeup_images/data_explore.png"
-[image1]: ./writeup_images/bar_train.png"
-[image1a]: ./writeup_images/bar_test.png"
-[image1b]: ./writeup_images/bar_valid.png"
+[image0]: ./writeup_images/data_explore.png "data"
+[image1]: ./writeup_images/bar_train.png "barchart"
+[image1a]: ./writeup_images/bar_test.png "barchart"
+[image1b]: ./writeup_images/bar_valid.png "barchart"
 [image2]: ./writeup_images/grayscale.png "Grayscaling"
 [image3]: ./writeup_images/norm_images.png "Norm"
 [image4]: ./new_images/11_Rightofway.jpg "11:-Rightofway"
